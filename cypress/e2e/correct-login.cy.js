@@ -12,4 +12,3 @@ describe('login tab', () => {
   })
 })
 
-git commit -m "“test(feat): correct login using a registered user"
